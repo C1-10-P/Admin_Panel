@@ -24,22 +24,16 @@
                         <div class="form-floating px-3 mb-3">
                         <form method="post" action="authenticate.php">
                         <input type="text" class="form-control mb-3" id="username" name="username" placeholder="Username" required>
-                            <!-- <label for="password"></label>
-        <label for="username"></label> -->
-        <!-- <input type="text" id="username" name="username" required><br> -->
+            
         <input type="password" class="form-control mb-3" id="password" placeholder="Password" name="password" required>
-                            <!-- <label for="password"></label> -->
-        <!-- <label for="password">Password:</label>
-        <input type="password" id="password" name="password" required><br> -->
-        <!-- <input type="submit" value="Login"> -->
+     
         <button type="submit" value="Login" class="btn btn-primary py-3 w-100 mb-4">Sign In</button>
     </form>
     </div>
                     
                         <div class="d-flex align-items-center justify-content-between mb-4"> 
                             <div class="form-check">
-                                <!-- <input type="checkbox" class="form-check-input" id="exampleCheck1"> -->
-                                <!-- <label class="form-check-label" for="exampleCheck1">Check me out</label> -->
+                              
                                 <a href="" class="text-center mt-2">Forgot Password?</a>
                             </div>
                            
